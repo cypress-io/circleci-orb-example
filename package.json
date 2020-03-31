@@ -1,0 +1,23 @@
+{
+  "name": "circleci-orb-example",
+  "version": "1.0.0",
+  "description": "Cypress CircleCI Orb example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cypress-io/circleci-orb-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cypress-io/circleci-orb-example/issues"
+  },
+  "homepage": "https://github.com/cypress-io/circleci-orb-example#readme",
+  "devDependencies": {
+    "cypress": "4.3.0"
+  }
+}
