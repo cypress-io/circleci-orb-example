@@ -1,7 +1,7 @@
-/// <reference types="cypress" />
-describe('Tests using CircleCI Cypress orb', () => {
-  it('works', () => {
-    cy.visit('index.html')
-    cy.contains('Cypress Orb')
+it('Test Tesla Link', () => {
+  cy.visit('https://www.tesla.com', {
+    headers: {
+      "Accept-Encoding": "gzip, deflate, br"
+    }
   })
 })
