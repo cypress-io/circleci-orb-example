@@ -6,5 +6,5 @@ workflows:
   build:
     jobs:
       - cypress/run:
-          name: Debug with Cypress logs
-          debug: 'cypress:*'
+          executor: cypress/browsers-chrome69
+          browser: chrome
