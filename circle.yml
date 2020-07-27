@@ -6,5 +6,5 @@ workflows:
   build:
     jobs:
       - cypress/run:
-          executor: cypress/browsers-chrome69
-          browser: chrome
+          executor: cypress/node8.9.3-npm6.10.1-chrome76-ff68
+          browser: firefox
