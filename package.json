@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/cypress-io/circleci-orb-example#readme",
   "devDependencies": {
-    "cypress": "6.2.1"
+    "cypress": "6.3.0"
   }
 }
