@@ -5,4 +5,6 @@ orbs:
 workflows:
   build:
     jobs:
-      - cypress/run
+      - cypress/run:
+          name: Debug with Cypress logs
+          debug: 'cypress:*'
