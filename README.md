@@ -9,6 +9,11 @@ The config is minimal since it uses commands from the Cypress orb, but you can s
 npm run effective:config
 ```
 
+## Examples
+
+- simple Cypress run
+- installing and building an app in the subfolder, but without running tests
+
 For more Cypress orb examples, check out GitHub repos tagged [cypress-orb-example](https://github.com/topics/cypress-orb-example)
 
 [renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
