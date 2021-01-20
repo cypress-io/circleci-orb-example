@@ -1,0 +1,16 @@
+{
+  "name": "examples-subfolder",
+  "version": "1.0.0",
+  "description": "example of Cypress project in the subfolder",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "build": "echo building ... done!"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "6.3.0"
+  }
+}
