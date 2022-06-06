@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/cypress-io/circleci-orb-example#readme",
   "devDependencies": {
-    "cypress": "9.7.0"
+    "cypress": "10.0.3"
   }
 }
